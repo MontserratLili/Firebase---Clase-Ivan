@@ -1,0 +1,68 @@
+***TALLER FIREBASE***
+
+
+
+Es noSQL:
+En informática, NoSQL (a veces llamado "no sólo SQL") es una amplia clase de sistemas de gestión de bases de datos que difieren del
+modelo clásico de SGBDR (Sistema de Gestión de Bases de Datos Relacionales) 
+en aspectos importantes, siendo el más destacado que no usan SQL como lenguaje principal de consultas.
+
+Ejemplo de base de datos no relacional: Mongo DB.
+
+Cuando no es relacional se usan los archivos json.
+En las bases de datos relacionales los conceptos son:
+
+Tabla haría referencia a alguno
+Tabla de Estudiantes
+Tabla de Perfiles
+
+No relacional: guarda datos y solo los retorna sin importarle el tipo o como se ordenen los datos.
+
+Base de datos en tiempo real. Sabe de cualquier dato sin realizar consultas, esto pasa por los super sokets (servidor que siempre esta escuchando).
+Tiene soporte para android, ios, web, c++ y unity.
+
+
+CREAR UN PROYECTO
+
+Ir a la aconsola
+
+ANALITYCS donde le da el usuario click a su sitio
+AUTHENTICATION para crear mi propio sistema de loging
+DATABASE base de datos
+STORAGE almacenamiento de datos como un instagram, facebook
+HOSTING como gitpages
+CLOUD FUNCTIONS logica de backend de la nube arrastrando componentes
+TEST LAB subir una nueva version de tu código, provee todo el ambiente de pruebas
+CRAS REPORTING cracear los errores que surgen en la aplicación, reporte de errores mas profesional
+NOTIFICATIONS enviar notificaciones a otros usuarios, 
+REMOTE CONFING configurar el sitio de manera remota es decir desde la pagina de firebase
+DYNAMIC LINKS enviar links personalizados a tus clientes
+ADMOB publicidad en aplicaciones móbiles
+CLOUD MENSAGE mensajes en la nube para recibirlos en todos lados
+ADWORDS monetizar clicks
+APP INDEXING para dirigir el tráfico de tu app
+
+Para mi desarrollo web me debo centrar a saber los siguientes topicos principalmente pero no exclusivamente:
+ *************************base de datos, almacenamiento, autentificacion y hosting.**********************************IMPORTANTEEEEEEEEEEEEE
+
+//YEOMAN paquete de node que nos permite crear una estructura de carpeta y archivos configurada con sass, gulp, etc
+//generador, crear, carpeta del proyecto y listo.
+//Nosotras podemos crear nuestro propio generador
+
+DOCUMENTACION DE FIREBASE
+https://firebase.google.com/docs/
+
+SDK kit de desarrollo de firebase
+
+Leer
+https://firebase.google.com/docs/database/web/structure-data
+https://firebase.google.com/docs/database/web/read-and-write
+
+NOTA
+.set para guardar datos en nuestra BD
+
+
+NPM
+https://www.npmjs.com/package/firebase
+
+Tambien podems usar firebase como una dependencia de npm
